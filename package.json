@@ -21,7 +21,10 @@
   "homepage": "https://github.com/vladmashtak/2048#readme",
   "devDependencies": {
     "eslint": "^4.1.1",
-    "eslint-config-airbnb": "^15.0.1",
+    "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.6.0"
+  },
+  "eslintConfig": {
+    "extends": "airbnb-base"
   }
 }
