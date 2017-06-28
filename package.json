@@ -1,0 +1,27 @@
+{
+  "name": "2048",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladmashtak/2048.git"
+  },
+  "keywords": [
+    "2048"
+  ],
+  "author": "Vlad Mashtak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladmashtak/2048/issues"
+  },
+  "homepage": "https://github.com/vladmashtak/2048#readme",
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.6.0"
+  }
+}
